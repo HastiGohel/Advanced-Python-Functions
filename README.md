@@ -21,4 +21,4 @@ This repository contains solutions to various Python programming exercises using
 ## ▶ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/HastiGohel/Advanced-Python-Functions.git
+   https://github.com/HastiGohel/Advanced-Python-Functions.git
